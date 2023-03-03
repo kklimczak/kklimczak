@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hello everyone 🙋‍♂️
+
+I'm Konrad 👨‍🦱 I'm from Poland 🇵🇱
+
+- 💻 I'm Senior Javascript Developer at Binarapps
+- 🛬 FPV Drone Pilot
+- 🏗️ Co-founder of polish FPV association - [MultiRotors Community](https://mrcrew.pl)
 
 <!--
 **kklimczak/kklimczak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
